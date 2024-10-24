@@ -1,2 +1,2 @@
 nginx
-docker pull moalhaddar/docx-to-pdf:2.1.0-12
+moalhaddar/docx-to-pdf:2.1.0-12
