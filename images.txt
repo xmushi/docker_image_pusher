@@ -1,2 +1,2 @@
-nginx
-moalhaddar/docx-to-pdf:2.1.0-12
+xuxueli/xxl-job-admin:2.4.1
+meddream/jdk17
