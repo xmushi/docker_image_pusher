@@ -1,2 +1,3 @@
 xuxueli/xxl-job-admin:2.4.1
 meddream/jdk17
+tduckcloud/tduck-platform
