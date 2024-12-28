@@ -1,2 +1,3 @@
 bladex/alpine-java:openjdk17_cn_slim
 openjdk:25-jdk-bullseye
+nginx:stable-perl
