@@ -1,1 +1,1 @@
-liberica-openjre17-centos
+openjdk:17-jdk
