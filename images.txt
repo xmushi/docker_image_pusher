@@ -1,1 +1,1 @@
-uozi/nginx-ui:latest
+liberica-openjre17-centos
